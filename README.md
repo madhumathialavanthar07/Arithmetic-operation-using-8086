@@ -25,12 +25,8 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 6. Add value in memory with accumulator.
 7. Store result.
 8. Stop.
-
-
 ## FLOW CHART
 <img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
-
-
 #### Program
 
 ```asm
@@ -52,7 +48,6 @@ INT 21H
 CODE ENDS
 END
 ```
-
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
@@ -69,8 +64,6 @@ END
 ![WhatsApp Image 2025-08-28 at 22 15 24_68c312af](https://github.com/user-attachments/assets/f19de2ec-a7e9-4852-9732-20606100e13c)
 
 
-
-
 ## 2. SUBTRACTION
 
 #### Algorithm
@@ -80,16 +73,10 @@ END
 3. Move 2nd data to accumulator.
 4. Subtract memory content.
 5. Store result.
-
 ## FLOWCHART
-
 <img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
 
-
 #### Program
-
-
-
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
@@ -111,17 +98,13 @@ END
 ## 3. MULTIPLICATION
 
 #### Algorithm
-
 1. Initialize memory and store operands.
 2. Move operands to registers.
 3. Multiply.
 4. Store result.
 
 ##FLOWCHART
-
 <img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
-
-
 
 #### Program
 
@@ -168,9 +151,8 @@ END
 2. Perform division.
 3. Store result.
 
-   ## FLOWCHART
+## FLOWCHART
 <img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
-
 
 #### Program
 
@@ -208,5 +190,4 @@ END
 ![WhatsApp Image 2025-08-31 at 23 27 10_6cc3f366](https://github.com/user-attachments/assets/3ffe4233-8101-4b81-afc8-4b24f6a3123e)
 
 ## RESULT
-
 Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed using MASM.
