@@ -52,16 +52,16 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|        1200h            |       1204h              |
-|        1201h            |       1205h              |
-|        1202h            |       1206h              |
-|        1203h            |         -                |
+|        1200:12          |       1204:24            |
+|        1201:34          |       1205:68            |
+|        1202:12          |       1206:00            |
+|        1203:34          |       1207:C4            |
 #### Manual Calculations
-![WhatsApp Image 2025-08-28 at 21 27 41_448fa00e](https://github.com/user-attachments/assets/8023f865-3747-44bb-a83d-9769493e7938)
+![WhatsApp Image 2025-08-28 at 21 27 42_863276d3](https://github.com/user-attachments/assets/3c9308c4-8725-4bb5-a7c1-e0e661faafd1)
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-![WhatsApp Image 2025-08-28 at 22 15 24_ca164551](https://github.com/user-attachments/assets/3a688de5-1a66-4143-93bf-59799beb8658)
-![WhatsApp Image 2025-08-28 at 22 15 24_68c312af](https://github.com/user-attachments/assets/f19de2ec-a7e9-4852-9732-20606100e13c)
+![addition](https://github.com/user-attachments/assets/0f342e83-6b0b-4637-9d2c-4226d10a2aff)
+![addddddd](https://github.com/user-attachments/assets/ba777b0e-f862-4555-b08d-75f5284d767a)
 
 
 ## 2. SUBTRACTION
@@ -81,18 +81,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|       1200h             |          1204h           |
-|       1201h             |          1205h           |
-|       1202h             |          1206h           |
-|       1203h             |            -             |                     |                          |
+|       1200:12           |          1204:00         |
+|       1201:34           |          1205:00         |
+|       1202:12           |          1206:00         |
+|       1203:34           |          1207:C4         |                                               
 
 #### Manual Calculations
 ![WhatsApp Image 2025-08-28 at 21 27 41_a4b97f39](https://github.com/user-attachments/assets/c626f873-c1ef-4631-90d5-53ef68682b6e)
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-![WhatsApp Image 2025-08-28 at 22 38 06_97b2cffd](https://github.com/user-attachments/assets/d3668423-04d9-48cb-9e31-0cd5a54e118d)
-![WhatsApp Image 2025-08-28 at 22 38 06_5c42bd09](https://github.com/user-attachments/assets/0c6c1278-20c2-489b-a3be-e02ad430367c)
-
+![subtraction](https://github.com/user-attachments/assets/376d7f92-f6c8-4143-877e-dfd0d240f493)
+![subbbbb](https://github.com/user-attachments/assets/47cfd404-01e2-4d4f-a5d2-8b8852542f02)
 
 
 ## 3. MULTIPLICATION
@@ -129,10 +128,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|       1200h             |          1204h           |
-|       1201h             |          1205h           |
-|       1202h             |          1206h           |
-|       1203h             |          1207h           |
+|       1200:12           |          1204:44         |
+|       1201:34           |          1205:51         |
+|       1202:12           |          1206:97         |
+|       1203:34           |          1207h:0A        |
 
 #### Manual Calculations
 ![WhatsApp Image 2025-08-28 at 21 27 42_90dc1cc0](https://github.com/user-attachments/assets/a6db2346-6ebf-4b34-8c7c-20a8b2b898cc)
@@ -177,10 +176,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|       1200h             |          1204h           |
-|       1201h             |          1205h           |
-|       1202h             |          1206h           |
-|       1203h             |          1207h           |                   |                          |
+|       1200:12           |          1204:01         |
+|       1201:34           |          1205:00         |
+|       1202:12           |          1206:00         |
+|       1203:34           |          1207:00         |                   |                          |
 
 #### Manual Calculations
 ![WhatsApp Image 2025-08-28 at 21 27 43_52ad54c9](https://github.com/user-attachments/assets/9b77eb89-32ea-4363-998f-787a0909b084)
