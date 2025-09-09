@@ -131,7 +131,7 @@ END
 |       1200:12           |          1204:44         |
 |       1201:34           |          1205:51         |
 |       1202:12           |          1206:97         |
-|       1203:34           |          1207h:0A        |
+|       1203:34           |          1207:0A         |
 
 #### Manual Calculations
 ![WhatsApp Image 2025-08-28 at 21 27 42_90dc1cc0](https://github.com/user-attachments/assets/a6db2346-6ebf-4b34-8c7c-20a8b2b898cc)
