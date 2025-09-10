@@ -60,8 +60,9 @@ END
 ![WhatsApp Image 2025-08-28 at 21 27 42_863276d3](https://github.com/user-attachments/assets/3c9308c4-8725-4bb5-a7c1-e0e661faafd1)
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-![addition](https://github.com/user-attachments/assets/0f342e83-6b0b-4637-9d2c-4226d10a2aff)
-![addddddd](https://github.com/user-attachments/assets/ba777b0e-f862-4555-b08d-75f5284d767a)
+![WhatsApp Image 2025-09-10 at 11 42 18_58fba78b](https://github.com/user-attachments/assets/89e8f3bc-4dcf-49c4-ba3e-cc2d147d1f46)
+![WhatsApp Image 2025-09-10 at 11 39 01_871bc3cf](https://github.com/user-attachments/assets/b4c0674b-41a4-41e6-af9c-34df019346ec)
+
 
 
 ## 2. SUBTRACTION
